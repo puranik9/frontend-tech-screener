@@ -1,6 +1,12 @@
 # Tech Screener Exercises
 
-The solutions to the exercises were written in JavaScript, HTML & CSS. The code, my thought process and the results of the two programs on a few testcases are provided on the HTML page as well. Simply hit the `Run Code` button and view the results on the screen!
+The solutions to the exercises were written in JavaScript, HTML & CSS. The code, my thought process and the results of the two programs on a few testcases are provided on the HTML page as well.
+
+## Instructions to run program
+
+1. Clone or ZIP Download this repository
+2. Open the `index.html` file in your favorite browser
+3. Simply hit the `Run Code` button and view the results on the screen!
 
 ## Exercise One
 
